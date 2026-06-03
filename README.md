@@ -1,8 +1,8 @@
-# reacoaxer
+# reastemcoaxer
 
 **A real-time extension for Reaper (Digital Audio Workstation by Cockos Incorporated) that analyzes live audio stems and generates musician-friendly performance cues.**
 
-Designed for live performers, `reacoaxer` "coaxes" optimal performance from WAV stems through adaptive, low-latency feedback.
+Designed for live performers, `reastemcoaxer` "coaxes" optimal performance from WAV stems through adaptive, low-latency feedback.
 
 ## ✨ Features
 *   **Real-Time Analysis**: Monitors live stems with low-latency Lua scripting.
@@ -20,11 +20,11 @@ Designed for live performers, `reacoaxer` "coaxes" optimal performance from WAV 
 
 ## 🎮 Usage
 1.  Load live WAV stems into tracks.
-2.  Run action: **`reacoaxer: Start live stem coaxing`**.
+2.  Run action: **`reastemcoaxer: Start live stem coaxing`**.
 3.  Follow on-screen cues or OSC output.
-4.  Adjust sensitivity via **`reacoaxer: Settings`**.
+4.  Adjust sensitivity via **`reastemcoaxer: Settings`**.   
 
 ## 🛠 Dev
 Built with **Lua** (Reaper API v6.0+).
 ```bash
-git clone https://github.com/spunkshadows/reacoaxer.git   
+git clone https://github.com/spunkshadows/reastrmcoaxer.git   
