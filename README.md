@@ -1,6 +1,6 @@
 # reacoaxer
 
-**A real-time extension for :inlineEntity{type="inline_entity" conversation="092922b99998c9bb5da3e73d69488acee888" name="Reaper"} (Digital Audio Workstation by Cockos Incorporated) that analyzes live audio stems and generates musician-friendly performance cues.**
+**A real-time extension for Reaper (Digital Audio Workstation by Cockos Incorporated) that analyzes live audio stems and generates musician-friendly performance cues.**
 
 Designed for live performers, `reacoaxer` "coaxes" optimal performance from WAV stems through adaptive, low-latency feedback.
 
