@@ -1,4 +1,4 @@
-# stemcoaxer
+# stemcoaxer  (NOT READY YET!! UNDER CONSTRUCTION)
 
 **stemcoaxer analyzes live audio stems and generates musician-friendly performance cues.**
 ** Currently this takes the form of a real-time extension for Reaper (Digital Audio Workstation by Cockos Incorporated) **
